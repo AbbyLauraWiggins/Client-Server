@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClientServerModel</string>
+    <string name="password_to_server">Password</string>
+    <string name="email_to_server">Email</string>
+</resources>
