@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SavingState</string>
+    <string name="notesTextViewText">Notes</string>
+    <string name="notesEditText">Enter notes</string>
+    <string name="btnSettingsText">Settings</string>
+    <string name="title_activity_settings">Settings Activity</string>
+</resources>
